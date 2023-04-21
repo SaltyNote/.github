@@ -21,3 +21,6 @@ It is a short story when I started my new career in the big company, I had to re
 2. The company has security and privacy concerns, and does not allow using third party note taking applications.
 
 So, I leveraged the internal infrastructure for data storage and built the prototype of this Chrome Extension for note taking.
+
+
+📡 The development Kanban is [here](https://github.com/orgs/SaltyNote/projects/5/views/1).
