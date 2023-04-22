@@ -15,7 +15,7 @@
 
 You can find it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/saltynote/baanghljiehhpljdbonfknboakpfajnn).
 
-### The reason why I created this Chrome Extension
+### The reason I created this Chrome Extension
 It is a short story when I started my new career in the big company, I had to read a lot of internal documentations for ramping up. 
 1. Since there are too many links to read, I easily forgot what I had read before.
 2. The company has security and privacy concerns, and does not allow using third party note taking applications.
