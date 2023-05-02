@@ -22,5 +22,6 @@ It is a short story when I started my new career in the big company, I had to re
 
 So, I leveraged the internal infrastructure for data storage and built the prototype of this Chrome Extension for note taking.
 
+####  And **SaltyNote** is the *open source* version!
 
 📡 The development Kanban is [here](https://github.com/orgs/SaltyNote/projects/5/views/1).
